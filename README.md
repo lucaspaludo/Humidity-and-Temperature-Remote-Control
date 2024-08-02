@@ -1,4 +1,4 @@
-# Humidity and Temperature Remote Control
+# Controle automático de umidade com Arduino
  Esse projeto mostra como implementar um sistema de rega automática utilizando o sensor de umidade de solo do arduino
 
  ## Diagrama utilizado
